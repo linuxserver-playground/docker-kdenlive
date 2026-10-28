@@ -8,9 +8,9 @@ summary: |-
 upstream:
   url: https://kdenlive.org/
   version:
-    type: command
-    run: |-
-      curl -sL https://archlinux.org/packages/extra/x86_64/kdenlive/ |awk -F'(<h2>kdenlive |</h2>)' '/<h2>/ {print $2}'
+    type: arch_package
+    package: kdenlive
+    release: true
 
 release:
   branch: master
