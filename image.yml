@@ -11,6 +11,9 @@ upstream:
     type: arch_package
     package: kdenlive
     release: true
+  sponsor:
+  - name: Kdenlive fund
+    url: https://kdenlive.org/fund/
 
 release:
   branch: master
