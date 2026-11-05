@@ -760,7 +760,7 @@ k8s.io/cri-streaming                                                            
 k8s.io/klog/v2                                                                      v2.140.0                                         go-module       (+1 duplicate)    
 k8s.io/streaming                                                                    v0.37.0                                          go-module                         
 k8s.io/utils                                                                        v0.0.0-20260626114624-be93311217bd               go-module       (+1 duplicate)    
-kaccounts-integration                                                               26.08.2-1                                        alpm                              
+kaccounts-integration                                                               26.08.3-1                                        alpm                              
 karchive                                                                            6.31.0-1                                         alpm                              
 kbd                                                                                 2.10.0-1                                         alpm                              
 kbookmarks                                                                          6.31.0-1                                         alpm                              
@@ -774,7 +774,7 @@ kcoreaddons                                                                     
 kcrash                                                                              6.31.0-1                                         alpm                              
 kdbusaddons                                                                         6.31.0-1                                         alpm                              
 kddockwidgets                                                                       2.5.1-1                                          alpm                              
-kdenlive                                                                            26.08.2-3                                        alpm                              
+kdenlive                                                                            26.08.3-1                                        alpm                              
 kernel.org/pub/linux/libs/security/libcap/cap                                       v1.2.78                                          go-module                         
 kernel.org/pub/linux/libs/security/libcap/psx                                       v1.2.78                                          go-module                         
 keyutils                                                                            1.6.3-4                                          alpm                              
@@ -1281,7 +1281,7 @@ shaderc                                                                         
 shadow                                                                              4.20.0.arch1-1                                   alpm                              
 shared-mime-info                                                                    2.5.1-2                                          alpm                              
 sharedimageplugin                                                                   6.12.0                                           UnknownPackage                    
-signon-kwallet-extension                                                            26.08.2-1                                        alpm                              
+signon-kwallet-extension                                                            26.08.3-1                                        alpm                              
 signon-plugin-oauth2                                                                0.25-4                                           alpm                              
 signon-ui                                                                           0.17+20231016-4                                  alpm                              
 signond                                                                             8.61-4                                           alpm                              
